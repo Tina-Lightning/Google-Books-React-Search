@@ -1,0 +1,23 @@
+.card {
+    width: 800px;
+    height: 400px;
+    margin: 10px;
+    margin: 0 auto;
+    margin-top:20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: left;
+    overflow: scroll;
+}
+
+.card img {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.btn {
+    width: 130px;
+    background-color: #D3D3D3;
+    color: black;
+    margin-top:10px
+}

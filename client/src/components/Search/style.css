@@ -1,0 +1,11 @@
+input {
+    margin-right: 10px;
+}
+button {
+    margin-right: 10px;
+}
+.search-area {
+    height: 120px;
+    padding: 50px;
+    background-color: #A9A9A9;
+}
